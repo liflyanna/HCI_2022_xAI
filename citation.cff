@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Bodirnea"
+  given-names: "Oana-Emilia"
+- family-names: "Überreiter"
+  given-names: "Sebastian"
+- family-names: "Vanmalcot"
+  given-names: "Jonas"
+- family-names: "Söls"
+  given-names: "Christoph"
+title: "HCI 2022 xAI Mockups"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-07-11
+url: "https://github.com/liflyanna/HCI_2022_xAI"
