@@ -1,2 +1,2 @@
-# HCI_2022_xAI
-xAI Mockups
+# HCI 2022 - xAI Mockups
+In this repository the raw html and png files of the paper "HCAI Interactive Interface Design for Forestry Robot" are located. All files were created and exported via the Moqups tool with a free educational license.
